@@ -4,16 +4,16 @@ S. pluripotens MUSC135T	29
 S. xiamenensis MCCC 1A01550	21
 S. aquilus GGCR-6	31
 S. phaeolivaceus  GY16	29
-S. broussonetiae 	T44	30
-S. nigra 452	20
+S. broussonetiae T44	30
+S. nigra 452 	20
 S. genisteinicus CRPJ-33	27
-S. cavourensis  	1AS2a	29
+S. cavourensis  1AS2a	29
 S. griseorubiginosus 3E-1	24
 S. pratensis  S10	29
 S. murinus         Am1	33
-S. anulatus 	YINM00001	33
-S. yangpuensis 	CM253	25
-S. griseorubiginosus 	BTU6	25
+S. anulatus YINM00001	33
+S. yangpuensis CM253	25
+S. griseorubiginosus BTU6	25
 S. globisporus TFH56	28
 S. olivaceus KLBMP 5084	34
 S. alfalfae ACCC40021	37
@@ -27,7 +27,7 @@ S. adelaidensis CAP261	15
 S. kebangsaanensis SUK12	15
 S. sp. MH60	16
 S. sp. 111WW2 	16
-S. mimosae  	3MP-10	15
+S. mimosae  3MP-10	15
 S. sp. AcE210	24
 S. scabrisporus NF3	49
 S. radicis DS1-2	27
