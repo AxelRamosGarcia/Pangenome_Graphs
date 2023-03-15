@@ -1,0 +1,76 @@
+name	BGC number
+S. xanthii  strain        CRXT-Y-14 	20
+S. pluripotens MUSC135T	29
+S. xiamenensis MCCC 1A01550	21
+S. aquilus GGCR-6	31
+S. phaeolivaceus  GY16	29
+S. broussonetiae 	T44	30
+S. nigra 452	20
+S. genisteinicus CRPJ-33	27
+S. cavourensis  	1AS2a	29
+S. griseorubiginosus 3E-1	24
+S. pratensis  S10	29
+S. murinus         Am1	33
+S. anulatus 	YINM00001	33
+S. yangpuensis 	CM253	25
+S. griseorubiginosus 	BTU6	25
+S. globisporus TFH56	28
+S. olivaceus KLBMP 5084	34
+S. alfalfae ACCC40021	37
+S. coffeae CA1R205	33
+S. sp. L06	18
+S. sp. SUK 48	36
+S. sp. SS52	29
+S. typhae p1417	33
+S. hygroscopicus subsp. hygroscopicus OsiSh-2	31
+S. adelaidensis CAP261	15
+S. kebangsaanensis SUK12	15
+S. sp. MH60	16
+S. sp. 111WW2 	16
+S. mimosae  	3MP-10	15
+S. sp. AcE210	24
+S. scabrisporus NF3	49
+S. radicis DS1-2	27
+S. radicis AZ1-7	27
+S. sp. SS1-1	20
+S. physcomitrii LD120	25
+S. albidoflavus UYFA156	19
+S. sp. CBMAI 2042	34
+S. sp. RTd22"	40
+S. sp. XY006 	25
+S. dioscori A217	33
+S. wadayamensis A23	15
+S. sp. LUP30	19
+S. sp. LUP47B 	22
+S. sp. GKU 895	13
+S. parvulus SX6	20
+S. sp. EN16"	16
+S. sp. EN23	23
+S. sp. EN27 	21
+S. sp. PRh5	22
+S. spinosus SBTS01	25
+S. chartreusis WZS021	36
+S. sp. L2	30
+S. alfalfae XN-04 	33
+S. albidoflavus 220	13
+S. sp. GQFP	24
+S. barringtoniae strain JA03	24
+S. sp. TM32	9
+S. musisoli CH5-8	26
+S. sp. SJ1-7"	30
+S. sp. HSG2	24
+S. triticagri NEAU-YY421	6
+S. oryziradicis NEAU-C40	14
+S. triticiradicis sp. NEAU-H2	26
+S. piniterrae   jys28	31
+S. sp. SCA3-4	19
+S. sp. HM190	25
+S. angustmyceticus CQUSa03	30
+Steptomyces fagopyri sp QMT-28	25
+S. albireticuli  MDJK11	43
+S. alboflavus MDJK44	31
+S. sp. NWU339	18
+S. NWU49	26
+S. sp. D2-8	25
+S. sp. FT1	19
+S. sp. FB2	17
