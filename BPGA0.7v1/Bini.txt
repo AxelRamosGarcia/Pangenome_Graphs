@@ -1,0 +1,76 @@
+name	BiNI
+S. xanthii  strain        CRXT-Y-14 	585.85
+S. pluripotens MUSC135T	447.1034483
+S. xiamenensis MCCC 1A01550	174.0952381
+S. aquilus GGCR-6	327.8064516
+S. phaeolivaceus  GY16	197.2413793
+S. broussonetiae T44	444.1
+S. nigra 452 	94.6
+S. genisteinicus CRPJ-33	490.1481481
+S. cavourensis  1AS2a	113.0344828
+S. griseorubiginosus 3E-1	362.3333333
+S. pratensis  S10	645.2413793
+S. murinus         Am1	415.030303
+S. anulatus YINM00001	223.8484848
+S. yangpuensis CM253	471.68
+S. griseorubiginosus BTU6	341.48
+S. globisporus TFH56	69.5
+S. olivaceus KLBMP 5084	431.8235294
+S. alfalfae ACCC40021	108.2972973
+S. coffeae CA1R205	939.3939394
+S. sp. L06	478.6666667
+S. sp. SUK 48	258.9722222
+S. sp. SS52	223.2068966
+S. typhae p1417	222.969697
+S. hygroscopicus subsp. hygroscopicus OsiSh-2	429.1290323
+S. adelaidensis CAP261	679.3333333
+S. kebangsaanensis SUK12	168.2666667
+S. sp. MH60	63.25
+S. sp. 111WW2 	86.25
+S. mimosae  3MP-10	297.0666667
+S. sp. AcE210	129.7083333
+S. scabrisporus NF3	241.8571429
+S. radicis DS1-2	277
+S. radicis AZ1-7	193.4814815
+S. sp. SS1-1	90.85
+S. physcomitrii LD120	621.56
+S. albidoflavus UYFA156	367
+S. sp. CBMAI 2042	369.4705882
+S. sp. RTd22"	114.175
+S. sp. XY006 	288.8
+S. dioscori A217	269.1212121
+S. wadayamensis A23	61.26666667
+S. sp. LUP30	436.8421053
+S. sp. LUP47B 	215.9090909
+S. sp. GKU 895	150.2307692
+S. parvulus SX6	537.9
+S. sp. EN16"	68
+S. sp. EN23	231.826087
+S. sp. EN27 	140.5238095
+S. sp. PRh5	194.9090909
+S. spinosus SBTS01	649.16
+S. chartreusis WZS021	301.0555556
+S. sp. L2	395.9
+S. alfalfae XN-04 	168.9393939
+S. albidoflavus 220	148.4615385
+S. sp. GQFP	568.6666667
+S. barringtoniae strain JA03	666.5416667
+S. sp. TM32	343.8888889
+S. musisoli CH5-8	718.3846154
+S. sp. SJ1-7"	678.6666667
+S. sp. HSG2	807.2916667
+S. triticagri NEAU-YY421	426.8333333
+S. oryziradicis NEAU-C40	192
+S. triticiradicis sp. NEAU-H2	261.8461538
+S. piniterrae   jys28	353.2903226
+S. sp. SCA3-4	928.2105263
+S. sp. HM190	347.12
+S. angustmyceticus CQUSa03	693.6
+Steptomyces fagopyri sp QMT-28	205.04
+S. albireticuli  MDJK11	79.55813953
+S. alboflavus MDJK44	346.8387097
+S. sp. NWU339	632.7222222
+S. NWU49	144.7307692
+S. sp. D2-8	413.28
+S. sp. FT1	212.5789474
+S. sp. FB2	111.3529412
